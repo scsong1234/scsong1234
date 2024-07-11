@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scsong1234
 - 👀 I’m interested in materials science and engineering.
-- 🌱 I’m currently learning atomistic modelling of materials.
+- 🌱 I’m currently learning Atomic Electron Tomography.
 
 
 <!---
